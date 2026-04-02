@@ -21,4 +21,4 @@
 .idea/
 .qodo/
 *.txt
-*.pdf
+# *.pdf
